@@ -22,7 +22,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 ### Office Hours
 <div id='id-office'/>
 
-* Por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
+* Lunes y miércoles de 14:00 a 14:30, por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
 
 
 # Material del curso
