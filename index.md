@@ -30,7 +30,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 
 **No.**  | **Fecha**    | **Tópicos**                                                | **Recursos**
 -------- | ------------ | ---------------------------------------------------------- |  -------------------------------------
-01       | 06.01.2025   | Inicio del curso.  | 
+01       | 06.01.2025   | Inicio del curso. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
 
 
 # Proyectos
