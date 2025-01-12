@@ -50,7 +50,7 @@ En el curso realizaremos dos proyectos, los cuales se indicarán más adelante.
 
 * [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](https://libgen.li/adsa3b44a071c37f15474df44c4a0c67976CAHTWUVR){:target="_blank"}
 
-* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](http://library.lol/main/8ECFEEB2E1F9A19C770FBA1FF85FA566){:target="_blank"}
+* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](https://libgen.li/ads8ecfeeb2e1f9a19c770fba1ff85fa5662544SKWB){:target="_blank"}
 
 ### Referencias adicionales:
 
