@@ -44,11 +44,11 @@ En el curso realizaremos dos proyectos, los cuales se indicarán más adelante.
 
 ### Textos:
 
-* [R. Duda, P. Hart, D. Stork (2000). *Pattern classification*.](http://library.lol/main/5858DCFE63D714C5C42F433D5F821631){:target="_blank"}
+* [R. Duda, P. Hart, D. Stork (2000). *Pattern classification*.](https://libgen.li/adsfdfdea9d8171ef45f0b2eea8030490d0YP80AFIV){:target="_blank"}
 
-* [C. Bishop (2000). *Pattern Recognition and Machine Learning*.](http://library.lol/main/B616EF565E2D48AE23EE2E19D7B0ADD2){:target="_blank"}
+* [C. Bishop (2000). *Pattern Recognition and Machine Learning*.](https://libgen.li/adsae9f928d7d04112f9e8857bcd100e59dIO5FYYXZ){:target="_blank"}
 
-* [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](http://library.lol/main/5F88A9F135B7AB31FBCF1729412560DC){:target="_blank"}
+* [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](https://libgen.li/adsa3b44a071c37f15474df44c4a0c67976CAHTWUVR){:target="_blank"}
 
 * [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](http://library.lol/main/8ECFEEB2E1F9A19C770FBA1FF85FA566){:target="_blank"}
 
