@@ -52,19 +52,17 @@ En el curso realizaremos dos proyectos, los cuales se indicarán más adelante.
 
 * [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](https://libgen.li/ads8ecfeeb2e1f9a19c770fba1ff85fa5662544SKWB){:target="_blank"}
 
+* [G. James, D. Witten, T. Hastie, R. Tibshirani (2023). *An Introduction to Statistical Learning with Applications in Python*.](https://libgen.li/ads2da57b70be7a957abb9f7364ccbced40KR0PD925){:target="_blank"}
+
 ### Referencias adicionales:
 
-* [K.-L. Chung (2000). *A Course in Probability Theory*](http://library.lol/main/6B122D4F68618DB5F1893F0296CB2491){:target="_blank"}
+* [K.-L. Chung (2000). *A Course in Probability Theory*](https://libgen.li/ads1ec33c81975e516dd15b89f3b371a68fX3EH7EX2){:target="_blank"}
 
-* [M. Lefebvre (2011). *Basic Probability with Applications*](http://library.lol/main/F3B9314CA31E0289D5FCD6EEDA01308A){:target="_blank"}
+* [M. Lefebvre (2011). *Basic Probability with Applications*](https://libgen.li/adsf3b9314ca31e0289d5fcd6eeda01308aVRY6WN2J){:target="_blank"}
 
-* [G. James, D. Witten, T. Hastie, R. Tibshirani (2008). *An Introduction to Statistical Learning with Applications in R*.](http://library.lol/main/1E48B8220FEE4CD9D192F4ED5020F2DA){:target="_blank"}
+* [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*.](https://libgen.li/adsa23c9e5ed1112db6b7951a15001e5b68QX9128G0){:target="_blank"}
 
-* [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*.](http://library.lol/main/B5E1DA4CD9133B468CA730402BBC7117){:target="_blank"}
+* [K. Fukunaga (1990). *Introduction to Statistical Pattern Recognition*.](https://libgen.li/adsf9b5b4f49d36184c6cf3bf36375f49beO7JPNGMQ){:target="_blank"}
 
-* [B. Everitt, T. Hothorn (2011). *An Introduction to Applied Multivariate Analysis with R*](http://library.lol/main/83BD38DABC018FE79C6AEEF726BF20D7){:target="_blank"}
-
-* [K. Fukunaga (1990). *Introduction to Statistical Pattern Recognition*.](http://library.lol/main/F1FC9B38F5E9F245C7CDE3AFEDED4D06){:target="_blank"}
-
-* [C. Giraud (2015). *Introduction to High-Dimensional Statistics*.](http://library.lol/main/38E216C9EFA26C09F5A2324BC3122F92){:target="_blank"}
+* [C. Giraud (2021). *Introduction to High-Dimensional Statistics*.](https://libgen.li/ads73524b8ea60d921f8e5a909d492a1e5fTNAWKHJ2){:target="_blank"}
 
