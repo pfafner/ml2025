@@ -1,9 +1,5 @@
 # Elements of Machine Learning 2025
 
-<img src="https://freesvg.org/img/warning2.png" alt="Warning!" width="100">
-
-This site is under construction! 
-
 Este es un curso introductorio al aprendizaje estadístico, con énfasis principalmente en los fundamentos matemáticos y estadísticos de los principales algoritmos de aprendizaje automático y reconocimiento de patrones. El tema central del curso es el estudio de métodos para obtener información útil a partir de datos. Abordamos temas principales como el aprendizaje supervisado y no supervisado, los modelos de regresión, y algunos tópicos recientes como el aprendizaje profundo. 
 
 Al final del curso, los estudiantes comprederán los fundamentos de los algoritmos más populares del aprendizaje estadístico. Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con temas de álgebra lineal, cálculo, estadística, y tener conocimientos de al menos un lenguaje de programación (*e.g.* Python, R, Matlab, C++, u otros).
@@ -30,7 +26,8 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 
 **No.**  | **Fecha**    | **Tópicos**                                                | **Recursos**
 -------- | ------------ | ---------------------------------------------------------- |  -------------------------------------
-01       | 06.01.2025   | Inicio del curso. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
+01       | 06.01.2025   | Inicio del curso. ML y Data Science. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
+02       | 13.01.2025   | Repaso de probabilidad y estadística. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
 
 
 # Proyectos
