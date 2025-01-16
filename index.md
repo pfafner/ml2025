@@ -27,7 +27,8 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 **No.**  | **Fecha**    | **Tópicos**                                                | **Recursos**
 -------- | ------------ | ---------------------------------------------------------- |  -------------------------------------
 01       | 06.01.2025   | Inicio del curso. ML y Data Science. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
-02       | 13.01.2025   | Repaso de probabilidad y estadística. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | <br/> [aula02.ipynb](code/aula02.ipynb){:target="_blank"}
+02       | 13.01.2025   | Repaso de probabilidad y estadística. Probabilidad condicional. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | <br/> [aula02.ipynb](code/aula02.ipynb){:target="_blank"} 
+03       | 15.01.2025   | Regla de Bayes. Distribuciones, densidad y función de distribución.  [Aula 03](aulas/Aula03.pdf){:target="_blank"} | <br/> [aula03.ipynb](code/aula03.ipynb){:target="_blank"} 
 
 
 # Proyectos
