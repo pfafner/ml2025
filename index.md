@@ -30,6 +30,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 02       | 13.01.2025   | Repaso de probabilidad y estadística. Probabilidad condicional. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | <br/> [aula02.ipynb](code/aula02.ipynb){:target="_blank"} 
 03       | 15.01.2025   | Regla de Bayes. Distribuciones, densidad y función de distribución.  [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [aula03.ipynb](code/aula03.ipynb){:target="_blank"} 
 04       | 20.01.2025   | Ajuste de distribuciones. <br/>  | [aula04.ipynb](code/aula04.ipynb){:target="_blank"} [qqplots.ipynb](code/qqplots.ipynb){:target="_blank"} [distribuciones.ipynb](code/distribuciones.ipynb){:target="_blank"} [data_aula04.csv](code/data_aula04.csv){:target="_blank"} 
+05       | 22.01.2025   | Ejercicios de *Fitting data*. Exploración de datos. | [aula05.ipynb](code/aula05.ipynb){:target="_blank"} 
 
 
 # Proyectos
