@@ -32,8 +32,8 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 04       | 20.01.2025   | Ajuste de distribuciones. <br/>  | [aula04.ipynb](code/aula04.ipynb){:target="_blank"} [qqplots.ipynb](code/qqplots.ipynb){:target="_blank"} [distribuciones.ipynb](code/distribuciones.ipynb){:target="_blank"} [data_aula04.csv](code/data_aula04.csv){:target="_blank"} 
 05       | 22.01.2025   | Ejercicios de *Fitting data*. Exploración de datos. | [aula05.ipynb](code/aula05.ipynb){:target="_blank"} 
 **T1**   | 22.01.2025   | Tarea 1. **Fecha de entrega: 30 de enero.** <br/> | [Tarea 1](listas/Tarea01.pdf){:target="_blank"} [penguins.csv](listas/penguins.csv){:target="_blank"} [tips.csv](listas/tips.csv){:target="_blank"} 
-06       | 27.01.2025   | Estadísticos. Covarianza y correlación. <br/> [Aula 04](aulas/Aula04.ipynb){:target="_blank"} | 
-07       | 27.01.2025   | Centrado y normalización de datos. Normal multivariada. [Aula 05](aulas/Aula05.ipynb){:target="_blank"} | [center-data.ipynb](code/center-data.ipynb){:target="_blank"} [multivariate.ipynb](code/multivariate.ipynb){:target="_blank"} [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} 
+06       | 27.01.2025   | Estadísticos. Covarianza y correlación. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
+07       | 27.01.2025   | Centrado y normalización de datos. Normal multivariada. [Aula 05](aulas/Aula05.pdf){:target="_blank"} | [center-data.ipynb](code/center-data.ipynb){:target="_blank"} [multivariate.ipynb](code/multivariate.ipynb){:target="_blank"} [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} 
 08       | 29.01.2025   | Análisis de Componentes Principales (PCA). <br/> | 
 
 
