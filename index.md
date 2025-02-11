@@ -36,8 +36,8 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 07       | 27.01.2025   | Centrado y normalización de datos. Normal multivariada. [Aula 05](aulas/Aula05.pdf){:target="_blank"} | [center-data.ipynb](code/center-data.ipynb){:target="_blank"} [multivariate.ipynb](code/multivariate.ipynb){:target="_blank"} [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"} 
 08       | 29.01.2025   | Análisis de Componentes Principales (PCA). <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 09       | 03.02.2025   | Interpretación del PCA. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} |  [deport.csv](code/deport.csv){:target="_blank"}  <br/> [pca.ipynb](code/pca.ipynb){:target="_blank"} 
-10       | 05.02.2025   | Compresión de imágenes con PCA. <br/>  |  [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} 
-11       |     |    |  
+10       | 05.02.2025   | Compresión de imágenes con PCA. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} <br/> [quetzal.png](code/quetzal.png){:target="_blank"} [pca_imagen_basico.ipynb](code/pca_imagen_basico.ipynb){:target="_blank"}
+11       | 10.02.2025   | Escalamiento Multidimensional. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [md_scaling.ipynb](code/md_scaling.ipynb){:target="_blank"} 
 
 
 # Proyectos
