@@ -38,7 +38,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 09       | 03.02.2025   | Interpretación del PCA. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} |  [deport.csv](code/deport.csv){:target="_blank"}  <br/> [pca.ipynb](code/pca.ipynb){:target="_blank"} 
 10       | 05.02.2025   | Compresión de imágenes con PCA. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} <br/> [quetzal.png](code/quetzal.png){:target="_blank"} [pca_imagen_basico.ipynb](code/pca_imagen_basico.ipynb){:target="_blank"}
 11       | 10.02.2025   | Escalamiento Multidimensional. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [md_scaling.ipynb](code/md_scaling.ipynb){:target="_blank"} 
-12       | 12.02.2025   | Variables latentes. Descomposición NNMF. | 
+12       | 12.02.2025   | Variables latentes. Descomposición NNMF. Sistemas de Recomendación. | [recommender.ipynb](code/recommender.ipynb){:target="_blank"}
 
 
 # Proyectos
