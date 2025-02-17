@@ -40,6 +40,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 11       | 10.02.2025   | Escalamiento Multidimensional. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [md_scaling.ipynb](code/md_scaling.ipynb){:target="_blank"} 
 12       | 12.02.2025   | Variables latentes. Descomposición NNMF. Sistemas de Recomendación. | [movies.csv](code/movies.csv) [ratings.csv](code/ratings.csv) <br/> [recommender.ipynb](code/recommender.ipynb){:target="_blank"}
 **T2**   | 17.02.2025   | Tarea 2. **Fecha de entrega: 27 de febrero.** <br/> | [Tarea 2](listas/Tarea02.pdf){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} 
+13       | 17.02.2025   | *Manifold learning*. <br/> | 
 
 
 # Proyectos
