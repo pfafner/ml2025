@@ -38,9 +38,11 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 09       | 03.02.2025   | Interpretación del PCA. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} |  [deport.csv](code/deport.csv){:target="_blank"}  <br/> [pca.ipynb](code/pca.ipynb){:target="_blank"} 
 10       | 05.02.2025   | Compresión de imágenes con PCA. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | [SVD Compression Demo](http://timbaumann.info/svd-image-compression-demo/){:target="_blank"} <br/> [quetzal.png](code/quetzal.png){:target="_blank"} [pca_imagen_basico.ipynb](code/pca_imagen_basico.ipynb){:target="_blank"}
 11       | 10.02.2025   | Escalamiento Multidimensional. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [md_scaling.ipynb](code/md_scaling.ipynb){:target="_blank"} 
-12       | 12.02.2025   | Variables latentes. Descomposición NNMF. Sistemas de Recomendación. | [movies.csv](code/movies.csv) [ratings.csv](code/ratings.csv) <br/> [recommender.ipynb](code/recommender.ipynb){:target="_blank"}
+12       | 12.02.2025   | Variables latentes. Descomposición NNMF. Sistemas de Recomendación. [Aula 10](aulas/Aula10.pdf){:target="_blank"}  | [movies.csv](code/movies.csv) [ratings.csv](code/ratings.csv) <br/> [recommender.ipynb](code/recommender.ipynb){:target="_blank"}
 **T2**   | 17.02.2025   | Tarea 2. **Fecha de entrega: 27 de febrero.** <br/> | [Tarea 2](listas/Tarea02.pdf){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} 
-13       | 17.02.2025   | *Manifold learning*. <br/> | 
+13       | 17.02.2025   | *Manifold learning I*: Isomap, SNE y t-SNE, UMap. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | [manifold-iris.ipynb](code/manifold-iris.ipynb){:target="_blank"} [manifold-roll.ipynb](code/manifold-roll.ipynb){:target="_blank"} [manifold-digits.ipynb](code/manifold-digits.ipynb){:target="_blank"}
+14       | 19.02.2025   | *Manifold learning II*: SOM <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | [som-penguins.ipynb](code/som-penguins.ipynb){:target="_blank"} <br/> [democracy-index.ipynb](code/democracy-index.ipynb){:target="_blank"}
+15       | 24.02.2025   | Construcción de densidades empíricas. Ventanas de Parzen. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
 
 
 # Proyectos
