@@ -48,7 +48,16 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 # Proyectos
 <div id='id-proj'/>
 
-En el curso realizaremos dos proyectos, los cuales se indicarán más adelante.
+En el curso realizaremos dos proyectos.
+
+## Primer Proyecto
+<div id='id-proj1'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                                         
+-------- | ------------ | ------------------------------------------------------------------- 
+P1       | 26.02.2025   | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> Coordenadas de estaciones [stations.json](proyectos/stations.json){:target="_blank"} [stations.csv](proyectos/stations.csv){:target="_blank"} 
+.        | 24-26.03.2025   | Presentaciones 
+.        | 28.03.2025   | Entrega del reporte, código y presentación 
 
   
 # Referencias
