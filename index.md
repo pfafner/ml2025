@@ -45,6 +45,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 15       | 24.02.2025   | Construcción de densidades empíricas. Ventanas de Parzen. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
 16       | 26.02.2025   | Agrupamiento jerárquico. <br/> | 
 17       | 03.03.2025   | K-means, y variantes de K-means. <br/> | 
+18       | 05.03.2025   | Aplicaciones de K-means. Segmentación de imágenes. <br/> | 
 
 
 # Proyectos
