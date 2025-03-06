@@ -43,6 +43,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 13       | 17.02.2025   | *Manifold learning I*: Isomap, SNE y t-SNE, UMap. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | [manifold-iris.ipynb](code/manifold-iris.ipynb){:target="_blank"} [manifold-roll.ipynb](code/manifold-roll.ipynb){:target="_blank"} [manifold-digits.ipynb](code/manifold-digits.ipynb){:target="_blank"}
 14       | 19.02.2025   | *Manifold learning II*: SOM <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | [som-penguins.ipynb](code/som-penguins.ipynb){:target="_blank"} <br/> [democracy-index.ipynb](code/democracy-index.ipynb){:target="_blank"}
 15       | 24.02.2025   | Construcción de densidades empíricas. Ventanas de Parzen. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
+16       | 26.02.2025   | Agrupamiento jerárquico. <br/> | 
 
 
 # Proyectos
