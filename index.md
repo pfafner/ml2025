@@ -44,6 +44,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 14       | 19.02.2025   | *Manifold learning II*: SOM <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | [som-penguins.ipynb](code/som-penguins.ipynb){:target="_blank"} <br/> [democracy-index.ipynb](code/democracy-index.ipynb){:target="_blank"}
 15       | 24.02.2025   | Construcción de densidades empíricas. Ventanas de Parzen. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
 16       | 26.02.2025   | Agrupamiento jerárquico. <br/> | 
+17       | 03.03.2025   | K-means, y variantes de K-means. <br/> | 
 
 
 # Proyectos
