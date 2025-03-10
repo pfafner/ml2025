@@ -43,9 +43,10 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 13       | 17.02.2025   | *Manifold learning I*: Isomap, SNE y t-SNE, UMap. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | [manifold-iris.ipynb](code/manifold-iris.ipynb){:target="_blank"} [manifold-roll.ipynb](code/manifold-roll.ipynb){:target="_blank"} [manifold-digits.ipynb](code/manifold-digits.ipynb){:target="_blank"}
 14       | 19.02.2025   | *Manifold learning II*: SOM <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | [som-penguins.ipynb](code/som-penguins.ipynb){:target="_blank"} <br/> [democracy-index.ipynb](code/democracy-index.ipynb){:target="_blank"}
 15       | 24.02.2025   | Construcción de densidades empíricas. Ventanas de Parzen. [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
-16       | 26.02.2025   | Agrupamiento jerárquico. <br/> | 
-17       | 03.03.2025   | K-means, y variantes de K-means. <br/> | 
+16       | 26.02.2025   | Agrupamiento jerárquico. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | 
+17       | 03.03.2025   | K-means, y variantes de K-means. <br/>  [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
 18       | 05.03.2025   | Aplicaciones de K-means. Segmentación de imágenes. <br/> | 
+19       | 10.03.2025   | Otros métodos de agrupamiento. <br/> | 
 
 
 # Proyectos
