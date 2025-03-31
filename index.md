@@ -48,6 +48,8 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 18       | 05.03.2025   | Aplicaciones de K-means. Segmentación de imágenes. <br/> | 
 19       | 10.03.2025   | Otros métodos de agrupamiento. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
 20       | 17.03.2025   | Métricas para evaluar métodos de agrupamiento.  | 
+21       | 24.03.2025   | Presentación del Primer Proyecto.  | 
+22       | 31.03.2025   | Método de las siluetas.  | 
 
 
 # Proyectos
