@@ -49,6 +49,9 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 19       | 10.03.2025   | Otros métodos de agrupamiento. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
 20       | 17.03.2025   | Métricas para evaluar métodos de agrupamiento.  | 
 21       | 24.03.2025   | Presentación del Primer Proyecto.  | 
+22       | 31.03.2025   | Indice de Dunn, índice de Davies-Bouldin. Método de las siluetas. | 
+23       | 07.04.2025   | Modelación Predictiva. Error empírico y error de generalización. Complejidad. | 
+24       | 09.04.2025   | K Nearest Neighbors (KNN).  | 
 
 
 # Proyectos
@@ -65,7 +68,18 @@ P1       | 26.02.2025   | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"
 .        | 24-26.03.2025   | Presentaciones 
 .        | 28.03.2025   | Entrega del reporte, código y presentación 
 
-  
+
+## Segundo Proyecto
+<div id='id-proj1'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                                         
+-------- | ------------ | ------------------------------------------------------------------- 
+P2       | 09.04.2025   | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/>  
+.        | 28.04.2025   | Fecha límite para tener tema aprobado
+.        | 12-16.05.2025 | Presentaciones 
+.        | 17.05.2025   | Entrega del reporte, código y presentación 
+
+
 # Referencias
 <div id='id-ref'/>
 
