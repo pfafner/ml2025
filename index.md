@@ -52,7 +52,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 22       | 31.03.2025   | Indice de Dunn, índice de Davies-Bouldin. Método de las siluetas. | 
 23       | 07.04.2025   | Modelación Predictiva. Error empírico y error de generalización. Complejidad. | 
 24       | 09.04.2025   | K Nearest Neighbors (KNN).  | 
-25       |  |  |  
+25       | 23.04.2025   | Clasificador bayesiano óptimo. |  
 
 
 # Proyectos
