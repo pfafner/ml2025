@@ -47,12 +47,15 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 17       | 03.03.2025   | K-means, y variantes de K-means. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
 18       | 05.03.2025   | Aplicaciones de K-means. Segmentación de imágenes. <br/> | 
 19       | 10.03.2025   | Otros métodos de agrupamiento. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
-20       | 17.03.2025   | Métricas para evaluar métodos de agrupamiento.  | 
+20       | 17.03.2025   | Métricas para evaluar métodos de agrupamiento. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | 
 21       | 24.03.2025   | Presentación del Primer Proyecto.  | 
 22       | 31.03.2025   | Indice de Dunn, índice de Davies-Bouldin. Método de las siluetas. | 
-23       | 07.04.2025   | Modelación Predictiva. Error empírico y error de generalización. Complejidad. | 
-24       | 09.04.2025   | K Nearest Neighbors (KNN).  | 
-25       | 23.04.2025   | Clasificador bayesiano óptimo. |  
+23       | 07.04.2025   | Modelación Predictiva. Error empírico y error de generalización. Complejidad. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
+24       | 09.04.2025   | K Nearest Neighbors (KNN). <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
+25       | 23.04.2025   | Clasificador bayesiano óptimo. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} |  
+26       | 28.04.2025   | Ejemplos de clasificador bayesiano. *Naïve Bayes*. [Aula 22](aulas/Aula22.pdf){:target="_blank"} |  
+**T3**   | 30.04.2025   | Tarea 3. **Fecha de entrega: 8 de mayo.** <br/> | [Tarea 3](listas/Tarea03.pdf){:target="_blank"} [countries_binary.xlsx](listas/countries_binary.xlsx){:target="_blank"}  
+**T4**   | 30.04.2025   | Tarea 4. **Fecha de entrega: 2 de mayo.** <br/> | [Tarea 4](listas/Tarea04.pdf){:target="_blank"} 
 
 
 # Proyectos
