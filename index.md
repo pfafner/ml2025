@@ -56,6 +56,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 26       | 28.04.2025   | Ejemplos de clasificador bayesiano. *Naïve Bayes*. [Aula 22](aulas/Aula22.pdf){:target="_blank"} |  
 **T3**   | 30.04.2025   | Tarea 3. **Fecha de entrega: 8 de mayo.** <br/> | [Tarea 3](listas/Tarea03.pdf){:target="_blank"} [countries_binary.xlsx](listas/countries_binary.xlsx){:target="_blank"}  
 **T4**   | 30.04.2025   | Tarea 4. **Fecha de entrega: 2 de mayo.** <br/> | [Tarea 4](listas/Tarea04.pdf){:target="_blank"} 
+27       | 05.05.2025   | Regresión lineal. Matriz de diseño y ecuaciones normales. |   
 
 
 # Proyectos
