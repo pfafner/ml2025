@@ -58,6 +58,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 **T4**   | 30.04.2025   | Tarea 4. **Fecha de entrega: 2 de mayo.** <br/> | [Tarea 4](listas/Tarea04.pdf){:target="_blank"} 
 27       | 05.05.2025   | Regresión lineal: OLS, Matriz de diseño y ecuaciones normales. |   
 28       | 07.05.2025   | Supuestos en OLS, pruebas de hipótesis, gráficos de diagnóstico. |  
+29       | 12.05.2025   | Presentación de proyectos finales. |  
 
 
 # Proyectos
@@ -83,7 +84,7 @@ P1       | 26.02.2025   | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"
 P2       | 09.04.2025   | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/>  
 .        | 28.04.2025   | Fecha límite para tener tema aprobado
 .        | 12-16.05.2025 | Presentaciones 
-.        | 17.05.2025   | Entrega del reporte, código y presentación 
+.        | 17.05.2025   | Entrega del código y presentación 
 
 
 # Referencias
