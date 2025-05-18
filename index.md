@@ -59,6 +59,7 @@ Al final del curso, los estudiantes comprederán los fundamentos de los algoritm
 27       | 05.05.2025   | Regresión lineal: OLS, Matriz de diseño y ecuaciones normales. |   
 28       | 07.05.2025   | Supuestos en OLS, pruebas de hipótesis, gráficos de diagnóstico. |  
 29       | 12.05.2025   | Presentación de proyectos finales. |  
+30       | 14.05.2025   | Presentación de proyectos finales. |  
 
 
 # Proyectos
